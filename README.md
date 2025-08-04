@@ -84,6 +84,7 @@ Di daerah Ketintang Timur Surabaya telah terjadi kecelakaan yang melibatkan 2 pe
 
 ## 📧 KONTAK
 Jika ada pertanyaan atau kerja sama, silakan hubungi:
+
 📩 **Email**   : [ihakam93@gmail.com]  
 🐙 **GitHub**  : [github.com/username](https://github.com/IqbalHakam123)  
 🌐 **LinkedIn**:[ linkedin.com/in/username](https://www.linkedin.com/in/iqbal-hakam)
@@ -92,6 +93,7 @@ Jika ada pertanyaan atau kerja sama, silakan hubungi:
 
 ## 📌 Catatan Penting
 ✅ Aplikasi ini boleh digunakan oleh siapa saja untuk keperluan riset, pengembangan, maupun produksi dengan syarat mencantumkan atribusi kepada pembuat asli.
+
 ❌ Tidak diperkenankan memodifikasi dan mengklaim sistem ini sebagai buatan sendiri tanpa izin.
 
 ---
