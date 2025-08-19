@@ -10,7 +10,7 @@ Sistem ini merupakan aplikasi berbasis Command Line Interface (CLI) yang diranca
     - Regex pattern booster
     - Token pair booster
     - Kata kunci penting
-- ✅ **Vectorizer:** TF-IDF + booster feature
+- ✅ **Vectorizer:** Counvectorizer + booster feature
 
 --- 
 
