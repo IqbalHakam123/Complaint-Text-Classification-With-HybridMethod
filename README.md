@@ -97,5 +97,3 @@ Jika ada pertanyaan atau kerja sama, silakan hubungi:
 ❌ Tidak diperkenankan memodifikasi dan mengklaim sistem ini sebagai buatan sendiri tanpa izin.
 
 ---
-
-Dibuat dengan ❤️ untuk membantu deteksi aduan transportasi secara otomatis
