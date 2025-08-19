@@ -5,7 +5,7 @@ Sistem ini merupakan aplikasi berbasis Command Line Interface (CLI) yang diranca
 - ✅ **Bahasa Pemrograman:** Python
 - ✅ **NLP Libraries:** Sastrawi, NLTK
 - ✅ **Model ML:** XGBoost Classifier
-- ✅ **Preprocessing:** Slang normalization, stopword removal, stemming
+- ✅ **Preprocessing:** Slang normalization, stopword removal, stemming, tokenizing
 - ✅**Booster Logic:**
     - Regex pattern booster
     - Token pair booster
@@ -16,8 +16,7 @@ Sistem ini merupakan aplikasi berbasis Command Line Interface (CLI) yang diranca
 
 ## ✨ **FITUR UTAMA**
 - 🔍 **Deteksi Aduan Otomatis** dari teks pengguna
-- 🧹 **Preprocessing Lengkap**: slang correction, stemming, dan filtering kata penting
-- ⚡ **Real-time Prediction** dengan estimasi waktu inferensi
+- 🧹 **Preprocessing Lengkap**: Slang normalization, stopword removal, stemming, tokenizing
 - 📊 **Hasil Detail**:
     - Teks asli 
     - Label klasifikasi (Aduan / Bukan Aduan)
@@ -26,7 +25,6 @@ Sistem ini merupakan aplikasi berbasis Command Line Interface (CLI) yang diranca
     - Waktu prediksi
     - Durasi prediksi
 - 🛡️ **Booster Pattern** untuk menangkap pola kritis
-- 🎮 CLI interaktif dengan banner dan loading animasi
 
 ---
 
@@ -60,8 +58,7 @@ Di daerah Ketintang Timur Surabaya telah terjadi kecelakaan yang melibatkan 2 pe
     ════════════════════════════════════════════════════════════                
 
     📊 Powered by Machine Learning & NLP                     
-    🚀 Enhanced CLI Interface                                 
-    ⚡ Real-time Text Analysis                                
+    🚀 Enhanced CLI Interface                                                              
                                                             
 ================================================================
 
